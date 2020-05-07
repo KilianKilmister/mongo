@@ -15,5 +15,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com/KilianKilmister/mongo.git"
+  },
+  "dependencies": {
+    "mongodb": "^3.5.7"
   }
 }
