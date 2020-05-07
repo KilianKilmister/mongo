@@ -1,0 +1,15 @@
+{
+  "name": "@slick_kilmister/mongo",
+  "version": "1.0.0",
+  "description": "wrapper for mongodb",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kilian kilian@catsoft.ch",
+  "bin": {
+    "mongoRepl": "bin.js"
+  },
+  "license": "MIT",
+  "type": "module"
+}
