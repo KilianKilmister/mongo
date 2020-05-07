@@ -2,7 +2,7 @@
   "name": "@slick_kilmister/mongo",
   "version": "1.2.2",
   "description": "wrapper for mongodb",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
