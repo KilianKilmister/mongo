@@ -1,6 +1,6 @@
 {
   "name": "@slick_kilmister/mongo",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "wrapper for mongodb",
   "main": "lib/main.js",
   "scripts": {
