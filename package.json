@@ -11,5 +11,9 @@
     "mongoRepl": "bin.js"
   },
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/KilianKilmister/mongo.git"
+  }
 }
